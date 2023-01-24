@@ -1,5 +1,6 @@
 .vscode
 .DS_Store
 data/
+.ipynb_checkpoints/
 venv/
 Russia_geoJSON/
